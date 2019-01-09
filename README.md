@@ -1,3 +1,3 @@
 # ELECTORAL ROLL EXTRACTION USING OCR
-OCR
+## SAMPLE OUTPUT
 ![Screenshot of output](/Screenshot.png)
