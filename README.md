@@ -1,2 +1,2 @@
-# electoralrollextraction-OCR-
+# ELECTORAL ROLL EXTRACTION USING OCR
 OCR
