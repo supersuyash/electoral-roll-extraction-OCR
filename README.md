@@ -73,6 +73,10 @@ Suppose we have 10,000 images to extract data from, we cannot data extract that 
 ```
 10,000/500 = 20 images
 ```
+```
+original list = [img1,img2,img3,..4,..5....img20,img21.....img40...img101....img5000.......img10,000]
+after breaking = [[img1,img2,img3,..4,..5....img20],[img21.....img40]....[img101....[img5000.......img10,000]]
+```
 I made sure that after extracting data from every 20 image our computer will save and export our data in csv format.
 
 ## SAMPLE OUTPUT
