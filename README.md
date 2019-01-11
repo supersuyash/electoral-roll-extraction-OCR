@@ -77,7 +77,7 @@ Suppose we have 10,000 images to extract data from, we cannot data extract that 
 original list = [img1,img2,img3,..4,..5....img20,img21.....img40...img101....img5000.......img10,000]
 after breaking = [[img1,img2,img3,..4,..5....img20],[img21.....img40]....[img101....[img5000.......img10,000]]
 ```
-I made sure that after extracting data from every 20 image our computer will save and export our data in csv format.
+I made sure that after extracting data from every 20 image our computer will save and export our data in csv format. Because of this we can stop and continue at any instance given we know where to continue from. We can know where to continue from just by looking last saved file name which indicates the chunk number which was last processed.
 
 ## SAMPLE OUTPUT
 ![Screenshot of output](/Screenshot.png)
